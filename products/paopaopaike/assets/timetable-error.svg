@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">课表发布前检查</title>
+  <desc id="desc">一张课表和发布前的冲突提醒</desc>
+  <rect width="1200" height="675" fill="#F5F7FA"/>
+  <rect x="70" y="70" width="760" height="510" rx="18" fill="#FFFFFF" stroke="#D7DEE8" stroke-width="3"/>
+  <rect x="70" y="70" width="760" height="72" rx="18" fill="#16324F"/>
+  <text x="108" y="116" fill="#FFFFFF" font-size="28" font-family="PingFang SC, sans-serif">周课表 · 发布前检查</text>
+  <g stroke="#D7DEE8" stroke-width="2" fill="#FFFFFF">
+    <rect x="110" y="175" width="150" height="64"/><rect x="260" y="175" width="150" height="64"/><rect x="410" y="175" width="150" height="64"/><rect x="560" y="175" width="150" height="64"/>
+    <rect x="110" y="239" width="150" height="64"/><rect x="260" y="239" width="150" height="64" fill="#E7F3F2"/><rect x="410" y="239" width="150" height="64"/><rect x="560" y="239" width="150" height="64"/>
+    <rect x="110" y="303" width="150" height="64"/><rect x="260" y="303" width="150" height="64"/><rect x="410" y="303" width="150" height="64"/><rect x="560" y="303" width="150" height="64"/>
+    <rect x="110" y="367" width="150" height="64"/><rect x="260" y="367" width="150" height="64"/><rect x="410" y="367" width="150" height="64" fill="#FFF0E5"/><rect x="560" y="367" width="150" height="64"/>
+    <rect x="110" y="431" width="150" height="64"/><rect x="260" y="431" width="150" height="64"/><rect x="410" y="431" width="150" height="64"/><rect x="560" y="431" width="150" height="64"/>
+  </g>
+  <text x="130" y="215" fill="#667085" font-size="21" font-family="PingFang SC, sans-serif">周一</text><text x="280" y="215" fill="#667085" font-size="21" font-family="PingFang SC, sans-serif">周二</text><text x="430" y="215" fill="#667085" font-size="21" font-family="PingFang SC, sans-serif">周三</text><text x="580" y="215" fill="#667085" font-size="21" font-family="PingFang SC, sans-serif">周四</text>
+  <g fill="#16324F" font-size="22" font-family="PingFang SC, sans-serif"><text x="295" y="278">数学</text><text x="445" y="406">物理</text></g>
+  <rect x="875" y="190" width="255" height="245" rx="18" fill="#FFF0E5" stroke="#E68A4A" stroke-width="3"/>
+  <circle cx="925" cy="245" r="26" fill="#E68A4A"/><text x="917" y="255" fill="#FFFFFF" font-size="28" font-family="sans-serif">!</text>
+  <text x="970" y="247" fill="#8A451D" font-size="24" font-family="PingFang SC, sans-serif">发现冲突</text>
+  <text x="905" y="302" fill="#8A451D" font-size="20" font-family="PingFang SC, sans-serif">教师时间重复</text><text x="905" y="340" fill="#8A451D" font-size="20" font-family="PingFang SC, sans-serif">请在发布前调整</text>
+  <path d="M830 315h44" stroke="#E68A4A" stroke-width="4"/><path d="M860 300l18 15-18 15" fill="none" stroke="#E68A4A" stroke-width="4"/>
+</svg>

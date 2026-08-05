@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">新学期排课复用历史规则</title>
+  <desc id="desc">从历史课表提取规则并生成新学期方案</desc>
+  <rect width="1200" height="675" fill="#F6F8FB"/>
+  <text x="90" y="105" fill="#16324F" font-size="38" font-family="PingFang SC, sans-serif">新学期，不必从零开始</text>
+  <g stroke="#69A7B4" stroke-width="5" fill="none"><path d="M430 335h300"/><path d="M690 315l42 20-42 20"/></g>
+  <rect x="110" y="190" width="300" height="310" rx="18" fill="#FFFFFF" stroke="#D7DEE8" stroke-width="3"/><text x="260" y="245" text-anchor="middle" fill="#667085" font-size="25" font-family="PingFang SC, sans-serif">上学期</text><g stroke="#D7DEE8" stroke-width="2"><path d="M155 285h210M155 335h210M155 385h210M155 435h210M225 265v205M295 265v205"/></g><rect x="155" y="285" width="70" height="50" fill="#E7F3F2"/><rect x="295" y="385" width="70" height="50" fill="#FFF0E5"/>
+  <rect x="790" y="190" width="300" height="310" rx="18" fill="#FFFFFF" stroke="#D7DEE8" stroke-width="3"/><text x="940" y="245" text-anchor="middle" fill="#16324F" font-size="25" font-family="PingFang SC, sans-serif">新学期</text><g stroke="#D7DEE8" stroke-width="2"><path d="M835 285h210M835 335h210M835 385h210M835 435h210M905 265v205M975 265v205"/></g><rect x="835" y="285" width="70" height="50" fill="#E7F3F2"/><rect x="975" y="335" width="70" height="50" fill="#E7F3F2"/><circle cx="600" cy="335" r="60" fill="#16324F"/><text x="600" y="328" text-anchor="middle" fill="#FFFFFF" font-size="24" font-family="PingFang SC, sans-serif">规则</text><text x="600" y="360" text-anchor="middle" fill="#CFE8ED" font-size="18" font-family="PingFang SC, sans-serif">复用 + 更新</text>
+  <text x="600" y="590" text-anchor="middle" fill="#667085" font-size="23" font-family="PingFang SC, sans-serif">留下的不是旧表，而是经过验证的排课方法</text>
+</svg>

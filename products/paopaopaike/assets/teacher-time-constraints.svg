@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">教师时间要求配置</title>
+  <desc id="desc">将教师不可用时间和优先要求写入排课规则</desc>
+  <rect width="1200" height="675" fill="#F7F8FA"/>
+  <text x="90" y="105" fill="#16324F" font-size="38" font-family="PingFang SC, sans-serif">“周三下午不能排”</text>
+  <text x="92" y="148" fill="#667085" font-size="24" font-family="PingFang SC, sans-serif">口头要求，应该变成可检查的规则</text>
+  <rect x="105" y="205" width="620" height="340" rx="18" fill="#FFFFFF" stroke="#D7DEE8" stroke-width="3"/><text x="150" y="260" fill="#667085" font-size="24" font-family="PingFang SC, sans-serif">教师时间要求</text>
+  <g font-family="PingFang SC, sans-serif" font-size="22"><text x="155" y="330" fill="#16324F">教师：王老师</text><text x="155" y="390" fill="#16324F">时间：周三下午</text><text x="155" y="450" fill="#16324F">类型：不可用</text></g><rect x="500" y="305" width="160" height="60" rx="30" fill="#E7F3F2"/><circle cx="620" cy="335" r="23" fill="#397985"/><text x="530" y="345" fill="#397985" font-size="18" font-family="PingFang SC, sans-serif">已启用</text>
+  <rect x="815" y="235" width="275" height="275" rx="18" fill="#16324F"/><g stroke="#7FBBC5" stroke-width="3"><path d="M855 305h195M855 365h195M855 425h195M920 275v195M985 275v195"/></g><rect x="985" y="365" width="65" height="60" fill="#E68A4A"/><text x="950" y="560" text-anchor="middle" fill="#667085" font-size="22" font-family="PingFang SC, sans-serif">冲突提前可见</text>
+  <path d="M730 370h70" stroke="#E68A4A" stroke-width="5"/><path d="M780 350l24 20-24 20" fill="none" stroke="#E68A4A" stroke-width="5"/>
+  <text x="600" y="620" text-anchor="middle" fill="#667085" font-size="23" font-family="PingFang SC, sans-serif">让每个要求被记录，也让每个取舍有依据</text>
+</svg>
