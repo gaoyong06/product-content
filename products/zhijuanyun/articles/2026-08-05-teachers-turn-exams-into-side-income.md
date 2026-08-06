@@ -11,6 +11,8 @@ source_url: https://www.zhijuanyun.com/paper-bundles
 
 # 老师的试卷，为什么不能成为自己的第二份收入？
 
+![教师试卷内容资产封面](/Users/gaoyong/Documents/work/xinyuan_tech/product-content/products/zhijuanyun/assets/teacher-paper-content-asset-cover.png)
+
 当老师，最容易被忽略的一件事是什么？
 
 不是备课，不是上课，也不是批改作业。
@@ -24,6 +26,8 @@ source_url: https://www.zhijuanyun.com/paper-bundles
 它们通常被放进一个文件夹，文件夹又被放进另一个文件夹。过一段时间，连文件名都想不起来了。
 
 最可惜的不是辛苦，而是这些辛苦只被使用了一次。
+
+---
 
 ## 你不是没有副业，你只是还没有整理自己的积累
 
@@ -44,6 +48,8 @@ source_url: https://www.zhijuanyun.com/paper-bundles
 这是你的经验，是你的判断，也是你多年教学留下来的内容资产。
 
 **真正适合老师的副业，不一定是再做一份陌生的工作，而是把已经做过的专业工作，重新整理一次。**
+
+---
 
 ## 一套好试卷，价值不该只停留在一次考试
 
@@ -67,6 +73,8 @@ source_url: https://www.zhijuanyun.com/paper-bundles
 
 先把已有的内容整理好，才是更适合教师节奏的第一步。
 
+---
+
 ## 但请别误会：这不是“上传就躺赚”
 
 任何副业都不是按下按钮就有收入。
@@ -87,6 +95,8 @@ source_url: https://www.zhijuanyun.com/paper-bundles
 
 **副业最怕每天换方向，最稳的方式，是从自己已经擅长的事情开始。**
 
+---
+
 ## 如果你已经有几套试卷，现在就可以做这三件事
 
 第一，先挑出最满意的一套。
@@ -104,6 +114,8 @@ source_url: https://www.zhijuanyun.com/paper-bundles
 这件事不需要你立刻改变生活。
 
 它只需要你先把电脑里那几个文件夹打开。
+
+---
 
 ## 写在最后
 
