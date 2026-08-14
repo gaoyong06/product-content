@@ -1,6 +1,12 @@
 # product-content
 所有产品的宣发素材, 内容管理
 
+当前产品目录示例：
+
+- `products/homepage-tab/store/` — Chrome Web Store 多语言详情
+- `products/companion-ios/store/` — App Store Connect 多语言上架文案与清单
+- `products/paopaopaike/articles/`、`products/zhijuanyun/articles/` — 宣发文章
+
 
 
 ### 文章文件标题命名
