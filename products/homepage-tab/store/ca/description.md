@@ -2,7 +2,7 @@
 
 ## Descripció breu
 
-Una pàgina de pestanya nova neta i personalitzable, pensada per tenir a mà els teus llocs preferits, la cerca, les notes i la informació diària.
+Llocs web d'ús freqüent, tasques, calendari i ginys: ara l'escriptori està perfectament organitzat.
 
 ## Descripció
 

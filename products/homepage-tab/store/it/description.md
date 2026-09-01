@@ -2,7 +2,7 @@
 
 ## Panoramica
 
-Una nuova scheda pulita e personalizzabile che tiene a portata di mano i tuoi siti preferiti, la ricerca, le note e le informazioni quotidiane.
+Siti usati di frequente, attività, calendario e widget: ora il tuo desktop è perfettamente organizzato.
 
 ## Descrizione
 

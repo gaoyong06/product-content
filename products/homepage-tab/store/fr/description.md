@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Un nouvel onglet clair et personnalisable qui rassemble vos sites favoris, la recherche, vos notes et les informations du quotidien.
+Sites fréquemment utilisés, tâches, calendrier et widgets : votre bureau est désormais parfaitement organisé.
 
 ## Description
 

@@ -2,7 +2,7 @@
 
 ## Yleiskatsaus
 
-Selkeä ja muokattava uusi välilehti, joka pitää suosikkisivustot, haun, muistiinpanot ja arjen tiedot helposti saatavilla.
+Usein käyttämäsi sivustot, tehtävät, kalenteri ja widgetit – työpöytäsi on nyt täydellisessä järjestyksessä.
 
 ## Kuvaus
 

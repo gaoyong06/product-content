@@ -1,0 +1,316 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>HomepageTab Chrome Web Store promotion</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+
+      body {
+        color: #1c2b33;
+        font-family: Arial, "PingFang SC", "Hiragino Sans", "Apple SD Gothic Neo", "Geeza Pro", "Thonburi", "Kohinoor Devanagari", sans-serif;
+      }
+
+      .artboard {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+      }
+
+      .marquee,
+      .small,
+      .dashboard {
+        display: none;
+        width: 100%;
+        height: 100%;
+      }
+
+      .artboard[data-variant="marquee"] .marquee {
+        display: grid;
+      }
+
+      .artboard[data-variant="small"] .small,
+      .artboard[data-variant="dashboard"] .dashboard {
+        display: block;
+      }
+
+      .marquee {
+        grid-template-columns: minmax(0, 1fr) 700px;
+        column-gap: 38px;
+        padding: 61px 70px;
+        background: #f5fbfe;
+      }
+
+      .marquee-copy {
+        align-self: center;
+      }
+
+      .marquee h1 {
+        max-width: 500px;
+        margin: 0;
+        font-size: 60px;
+        font-weight: 700;
+        line-height: 1.05;
+      }
+
+      .value-proposition {
+        max-width: 500px;
+        margin: 24px 0 0;
+        color: #1c2b33;
+        font-size: 34px;
+        font-weight: 600;
+        line-height: 1.18;
+      }
+
+      .feature-line {
+        max-width: 490px;
+        margin: 14px 0 0;
+        color: #52646c;
+        font-size: 22px;
+        line-height: 1.35;
+      }
+
+      .screen-frame {
+        width: 700px;
+        height: 438px;
+        overflow: hidden;
+        border-radius: 20px;
+        box-shadow: 0 20px 40px rgba(35, 68, 90, 0.14);
+      }
+
+      .screen-frame img {
+        display: block;
+        width: 700px;
+        height: 438px;
+      }
+
+      .small,
+      .dashboard {
+        --widget-inline-start: 0px;
+        position: relative;
+      }
+
+      .small img,
+      .dashboard img {
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+
+      .small img {
+        object-fit: cover;
+      }
+
+      .small-product-name {
+        position: absolute;
+        bottom: 18px;
+        left: var(--widget-inline-start);
+        margin: 0;
+        color: #ffffff;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1;
+        text-shadow: 0 1px 8px rgba(27, 58, 78, 0.66);
+      }
+
+      .dashboard-message {
+        position: absolute;
+        bottom: 5%;
+        left: var(--widget-inline-start);
+        max-width: 560px;
+        color: #ffffff;
+      }
+
+      .dashboard-message h1 {
+        margin: 0;
+        font-size: 42px;
+        font-weight: 700;
+        line-height: 1.08;
+        text-shadow: 0 2px 12px rgba(27, 58, 78, 0.5);
+      }
+
+      .dashboard-message p {
+        margin: 10px 0 0;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 1.35;
+        text-shadow: 0 2px 10px rgba(27, 58, 78, 0.5);
+      }
+
+      html[dir="rtl"] .marquee {
+        grid-template-columns: minmax(0, 1fr) 700px;
+      }
+
+      html[dir="rtl"] .marquee-copy {
+        grid-column: 1;
+        text-align: right;
+      }
+
+      html[dir="rtl"] .screen-frame {
+        grid-column: 2;
+        grid-row: 1;
+      }
+
+      html[dir="rtl"] .small-product-name {
+        right: var(--widget-inline-start);
+        left: auto;
+      }
+
+      html[dir="rtl"] .dashboard-message {
+        right: var(--widget-inline-start);
+        left: auto;
+        text-align: right;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="artboard" data-variant="marquee" aria-label="HomepageTab Chrome Web Store promotion">
+      <section class="marquee" aria-label="HomepageTab product introduction">
+        <div class="marquee-copy">
+          <h1>HomepageTab</h1>
+          <p class="value-proposition" data-copy="marquee-value"></p>
+          <p class="feature-line" data-copy="marquee-feature"></p>
+        </div>
+        <div class="screen-frame">
+          <img class="base-screen" alt="HomepageTab dashboard">
+        </div>
+      </section>
+      <section class="small" aria-label="HomepageTab dashboard">
+        <img class="base-screen" alt="HomepageTab dashboard">
+        <h1 class="small-product-name">HomepageTab</h1>
+      </section>
+      <section class="dashboard" aria-label="HomepageTab dashboard">
+        <img class="base-screen" alt="HomepageTab dashboard">
+        <div class="dashboard-message">
+          <h1>HomepageTab</h1>
+          <p data-copy="dashboard-feature"></p>
+        </div>
+      </section>
+    </main>
+    <script type="module">
+      const parameters = new URLSearchParams(window.location.search);
+      const locale = parameters.get('locale');
+      const variant = parameters.get('variant') || 'marquee';
+      const copy = await fetch('./locale-copy.json').then((response) => response.json());
+      const entry = copy[locale];
+
+      if (!entry || !['marquee', 'small', 'dashboard'].includes(variant)) {
+        throw new Error('Invalid promotion locale or variant');
+      }
+
+      document.documentElement.lang = locale;
+      document.documentElement.dir = entry.dir;
+      document.title = `HomepageTab ${locale} ${variant}`;
+      document.querySelector('.artboard').dataset.variant = variant;
+      document.querySelectorAll('[data-copy="marquee-value"]').forEach((element) => {
+        element.textContent = entry.marqueeValueProposition;
+      });
+      document.querySelectorAll('[data-copy="marquee-feature"]').forEach((element) => {
+        element.textContent = entry.marqueeFeatureLine;
+      });
+      document.querySelectorAll('[data-copy="dashboard-feature"]').forEach((element) => {
+        element.textContent = entry.dashboardFeatureLine ?? entry.marqueeFeatureLine;
+      });
+
+      const screenshotPath = `../${encodeURIComponent(locale)}/source/chrome-screenshot-1-dashboard-base.png`;
+      const images = [...document.querySelectorAll('.base-screen')];
+      await Promise.all(images.map(async (image) => {
+        image.src = screenshotPath;
+        await image.decode();
+      }));
+
+      function isWidgetSurface(red, green, blue) {
+        return red >= 232 && green >= 232 && blue >= 232 && Math.max(red, green, blue) - Math.min(red, green, blue) <= 22;
+      }
+
+      function widgetRunsAtRow(imageData, imageWidth, y) {
+        const runs = [];
+        let start = null;
+
+        for (let x = 0; x < imageWidth; x += 1) {
+          const offset = (y * imageWidth + x) * 4;
+          const isSurface = isWidgetSurface(imageData[offset], imageData[offset + 1], imageData[offset + 2]);
+          if (isSurface && start === null) {
+            start = x;
+          }
+          if ((!isSurface || x === imageWidth - 1) && start !== null) {
+            const end = isSurface && x === imageWidth - 1 ? x + 1 : x;
+            if (end - start >= 120) {
+              runs.push({ start, end });
+            }
+            start = null;
+          }
+        }
+
+        return runs;
+      }
+
+      function resolveWidgetBounds(image) {
+        const canvas = document.createElement('canvas');
+        canvas.width = image.naturalWidth;
+        canvas.height = image.naturalHeight;
+        const context = canvas.getContext('2d', { willReadFrequently: true });
+        context.drawImage(image, 0, 0);
+        const imageData = context.getImageData(0, 0, canvas.width, canvas.height).data;
+        const rows = [];
+
+        for (let y = 34; y <= Math.min(190, canvas.height - 1); y += 2) {
+          const runs = widgetRunsAtRow(imageData, canvas.width, y);
+          if (runs.length >= 2) {
+            rows.push(runs);
+          }
+        }
+
+        if (rows.length === 0) {
+          throw new Error('Could not identify top-row widget surfaces');
+        }
+
+        const runs = rows.flat();
+        return {
+          left: Math.min(...runs.map((run) => run.start)),
+          right: Math.max(...runs.map((run) => run.end))
+        };
+      }
+
+      function alignCopyWithWidgets() {
+        const dashboard = document.querySelector('.dashboard');
+        const small = document.querySelector('.small');
+        const sourceImage = images[0];
+        const bounds = resolveWidgetBounds(sourceImage);
+        const isRightToLeft = entry.dir === 'rtl';
+        const dashboardInlineStart = isRightToLeft
+          ? sourceImage.naturalWidth - bounds.right
+          : bounds.left;
+        const smallScale = Math.max(
+          small.clientWidth / sourceImage.naturalWidth,
+          small.clientHeight / sourceImage.naturalHeight
+        );
+        const smallOffsetX = (small.clientWidth - sourceImage.naturalWidth * smallScale) / 2;
+        const smallInlineStart = isRightToLeft
+          ? small.clientWidth - (bounds.right * smallScale + smallOffsetX)
+          : bounds.left * smallScale + smallOffsetX;
+
+        dashboard.style.setProperty('--widget-inline-start', `${dashboardInlineStart}px`);
+        small.style.setProperty('--widget-inline-start', `${smallInlineStart}px`);
+        document.documentElement.dataset.dashboardWidgetInlineStart = dashboardInlineStart.toString();
+        document.documentElement.dataset.smallWidgetInlineStart = smallInlineStart.toString();
+      }
+
+      alignCopyWithWidgets();
+      await document.fonts.ready;
+      document.documentElement.dataset.ready = 'true';
+    </script>
+  </body>
+</html>

@@ -2,7 +2,7 @@
 
 ## Prezentare generală
 
-O pagină de filă nouă simplă și personalizabilă, care îți păstrează la îndemână site-urile preferate, căutările, notițele și informațiile zilnice.
+Site-uri folosite frecvent, sarcini, calendar și widgeturi — acum desktopul tău este perfect organizat.
 
 ## Descriere
 

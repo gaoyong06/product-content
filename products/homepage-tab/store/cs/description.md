@@ -2,7 +2,7 @@
 
 ## Přehled
 
-Čistá a přizpůsobitelná stránka nové karty, která udrží oblíbené weby, vyhledávání, poznámky a každodenní informace po ruce.
+Často používané weby, úkoly, kalendář a widgety — vaše plocha je teď dokonale uspořádaná.
 
 ## Popis
 

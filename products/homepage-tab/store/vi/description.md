@@ -2,7 +2,7 @@
 
 ## Tổng quan
 
-Một trang tab mới gọn gàng, có thể tùy chỉnh, giúp các trang web yêu thích, tìm kiếm, ghi chú và thông tin hằng ngày luôn trong tầm tay.
+Các trang web thường dùng, việc cần làm, lịch và tiện ích — giờ đây màn hình nền của bạn được sắp xếp gọn gàng.
 
 ## Mô tả
 

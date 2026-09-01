@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>HomepageTab Chrome Web Store small promotion tile</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        width: 440px;
+        height: 280px;
+        margin: 0;
+        overflow: hidden;
+      }
+
+      body {
+        background: #8bc9e7;
+        color: #ffffff;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .promo {
+        position: relative;
+        --widget-column-left: 56px;
+        width: 440px;
+        height: 280px;
+        overflow: hidden;
+      }
+
+      .product-screen {
+        display: block;
+        width: 440px;
+        height: 280px;
+        object-fit: cover;
+      }
+
+      .product-name {
+        position: absolute;
+        bottom: 18px;
+        left: var(--widget-column-left);
+        color: #ffffff;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1;
+        text-shadow: 0 1px 8px rgba(27, 58, 78, 0.66);
+      }
+    </style>
+  </head>
+  <body>
+    <main class="promo" aria-label="HomepageTab organized dashboard">
+      <img class="product-screen" src="chrome-screenshot-1-dashboard-base.png" alt="HomepageTab dashboard with sites, tasks, subscriptions, widgets, and calendar">
+      <div class="product-name">HomepageTab</div>
+    </main>
+  </body>
+</html>

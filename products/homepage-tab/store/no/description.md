@@ -2,7 +2,7 @@
 
 ## Oversikt
 
-En ryddig og tilpassbar ny fane som holder favorittnettsteder, søk, notater og daglig informasjon lett tilgjengelig.
+Ofte brukte nettsteder, oppgaver, kalender og widgeter – skrivebordet ditt er nå perfekt organisert.
 
 ## Beskrivelse
 

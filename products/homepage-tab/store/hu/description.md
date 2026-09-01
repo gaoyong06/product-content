@@ -2,7 +2,7 @@
 
 ## Áttekintés
 
-Letisztult, személyre szabható új lap, ahol kedvenc webhelyeid, a keresés, a jegyzetek és a napi információk kéznél vannak.
+Gyakran használt webhelyek, feladatok, naptár és widgetek – az asztali felületed most tökéletesen rendezett.
 
 ## Leírás
 

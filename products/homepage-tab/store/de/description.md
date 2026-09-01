@@ -2,7 +2,7 @@
 
 ## Überblick
 
-Eine klare, anpassbare neue Tab-Seite, die deine Lieblingswebsites, die Suche, Notizen und tägliche Informationen griffbereit hält.
+Häufig genutzte Websites, Aufgaben, Kalender und Widgets – dein Desktop ist jetzt perfekt organisiert.
 
 ## Beschreibung
 

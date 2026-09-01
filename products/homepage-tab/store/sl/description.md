@@ -2,7 +2,7 @@
 
 ## Pregled
 
-Čist nov zavihek, ki ga lahko prilagodite svojim navadam in na katerem so priljubljena spletna mesta, iskanje, zapiski ter dnevne informacije vedno pri roki.
+Pogosto uporabljena spletna mesta, opravila, koledar in gradniki – vaše namizje je zdaj popolnoma urejeno.
 
 ## Opis
 

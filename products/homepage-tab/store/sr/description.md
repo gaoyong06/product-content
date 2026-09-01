@@ -2,7 +2,7 @@
 
 ## Pregled
 
-Čista i prilagodljiva stranica nove kartice koja drži omiljene sajtove, pretragu, beleške i svakodnevne informacije nadohvat ruke.
+Често коришћени сајтови, задаци, календар и виџети — ваша радна површина је сада савршено уређена.
 
 ## Opis
 

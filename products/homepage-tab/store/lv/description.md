@@ -2,7 +2,7 @@
 
 ## Pārskats
 
-Tīra un pielāgojama jauna cilne, kurā ērti pieejamas iecienītās vietnes, meklēšana, piezīmes un ikdienas informācija.
+Bieži izmantotās vietnes, uzdevumi, kalendārs un logrīki — jūsu darbvirsma tagad ir nevainojami sakārtota.
 
 ## Apraksts
 

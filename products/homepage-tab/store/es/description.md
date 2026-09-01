@@ -2,7 +2,7 @@
 
 ## Descripción general
 
-Una pestaña nueva clara y personalizable que mantiene a mano tus sitios favoritos, búsquedas, notas e información diaria.
+Sitios web de uso frecuente, tareas, calendario y widgets: ahora tu escritorio está perfectamente organizado.
 
 ## Descripción
 

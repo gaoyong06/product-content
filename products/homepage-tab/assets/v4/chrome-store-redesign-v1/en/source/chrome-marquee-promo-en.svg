@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1400" height="560" viewBox="0 0 1400 560">
+  <rect width="1400" height="560" fill="#edf7fb"/>
+  <rect width="1400" height="6" fill="#2d80d3"/>
+  <rect x="70" y="96" width="6" height="210" rx="3" fill="#9dcb3c"/>
+  <text x="104" y="142" fill="#1c2b33" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">HomepageTab</text>
+  <text x="104" y="220" fill="#1c2b33" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">Say goodbye to tab clutter</text>
+  <text x="104" y="266" fill="#52646c" font-family="Arial, Helvetica, sans-serif" font-size="22">Frequently used sites, tasks, calendar, and widgets—all neatly organized.</text>
+  <defs>
+    <clipPath id="screen-clip">
+      <rect x="710" y="72" width="620" height="388" rx="20"/>
+    </clipPath>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#23445a" flood-opacity="0.20"/>
+    </filter>
+  </defs>
+  <rect x="710" y="72" width="620" height="388" rx="20" fill="#dce9f1" filter="url(#shadow)"/>
+  <image xlink:href="../chrome-screenshot-1-dashboard.png" x="710" y="72" width="620" height="388" preserveAspectRatio="xMidYMid slice" clip-path="url(#screen-clip)"/>
+  <rect x="710" y="72" width="620" height="388" rx="20" fill="none" stroke="#c9d9e2"/>
+</svg>

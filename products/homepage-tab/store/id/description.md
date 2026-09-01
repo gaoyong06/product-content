@@ -2,7 +2,7 @@
 
 ## Ringkasan
 
-Tab baru yang bersih dan dapat disesuaikan untuk menyimpan situs favorit, pencarian, catatan, dan informasi harian di satu tempat.
+Situs yang sering digunakan, tugas, kalender, dan widget—kini desktop Anda tertata sempurna.
 
 ## Deskripsi
 

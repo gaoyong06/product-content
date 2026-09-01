@@ -2,7 +2,7 @@
 
 ## Overzicht
 
-Een rustige, aanpasbare nieuw-tabbladpagina waarin je favoriete websites, zoekopdrachten, notities en dagelijkse informatie samenkomen.
+Veelgebruikte websites, taken, agenda en widgets: je bureaublad is nu perfect georganiseerd.
 
 ## Beschrijving
 

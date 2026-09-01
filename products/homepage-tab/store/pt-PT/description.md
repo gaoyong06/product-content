@@ -2,7 +2,7 @@
 
 ## Visão geral
 
-Um novo separador simples e personalizável, com os seus sites favoritos, pesquisas, notas e informações diárias sempre por perto.
+Sites utilizados com frequência, tarefas, calendário e widgets: agora o seu ambiente de trabalho está perfeitamente organizado.
 
 ## Descrição
 

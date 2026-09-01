@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>HomepageTab Chrome Web Store marquee promotion</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        width: 1400px;
+        height: 560px;
+        margin: 0;
+        overflow: hidden;
+      }
+
+      body {
+        background: #f5fbfe;
+        color: #1c2b33;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .promo {
+        position: relative;
+        display: grid;
+        grid-template-columns: 1fr 700px;
+        column-gap: 38px;
+        width: 1400px;
+        height: 560px;
+        padding: 61px 70px;
+      }
+
+      .copy {
+        align-self: center;
+      }
+
+      h1 {
+        max-width: 500px;
+        margin: 0;
+        font-size: 60px;
+        font-weight: 700;
+        line-height: 1.05;
+      }
+
+      .value-proposition {
+        max-width: 500px;
+        margin: 24px 0 0;
+        color: #1c2b33;
+        font-size: 34px;
+        font-weight: 600;
+        line-height: 1.18;
+      }
+
+      .feature-line {
+        max-width: 490px;
+        margin: 14px 0 0;
+        color: #52646c;
+        font-size: 22px;
+        line-height: 1.35;
+      }
+
+      .screen-frame {
+        width: 700px;
+        height: 438px;
+        overflow: hidden;
+        border-radius: 20px;
+        box-shadow: 0 20px 40px rgba(35, 68, 90, 0.14);
+      }
+
+      .product-screen {
+        display: block;
+        width: 700px;
+        height: 438px;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="promo" aria-label="HomepageTab organized new-tab dashboard">
+      <section class="copy" aria-label="Product introduction">
+        <h1>HomepageTab</h1>
+        <p class="value-proposition">Say goodbye to tab clutter</p>
+        <p class="feature-line">Frequently used sites, tasks, calendar, and widgets—all neatly organized.</p>
+      </section>
+      <div class="screen-frame">
+        <img class="product-screen" src="chrome-screenshot-1-dashboard-base.png" alt="HomepageTab dashboard with sites, tasks, subscriptions, widgets, and calendar">
+      </div>
+    </main>
+  </body>
+</html>

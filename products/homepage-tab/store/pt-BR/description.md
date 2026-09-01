@@ -2,7 +2,7 @@
 
 ## Visão geral
 
-Uma nova aba limpa e personalizável, que mantém seus sites favoritos, pesquisas, notas e informações do dia sempre por perto.
+Sites usados com frequência, tarefas, calendário e widgets: agora sua área de trabalho está perfeitamente organizada.
 
 ## Descrição
 

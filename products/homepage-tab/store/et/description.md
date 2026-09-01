@@ -2,7 +2,7 @@
 
 ## Ülevaade
 
-Puhas ja kohandatav uue vahelehe leht, kus sinu lemmikveebisaidid, otsing, märkmed ja igapäevane teave on käeulatuses.
+Sageli kasutatavad saidid, ülesanded, kalender ja vidinad – sinu töölaud on nüüd täiuslikult korras.
 
 ## Kirjeldus
 

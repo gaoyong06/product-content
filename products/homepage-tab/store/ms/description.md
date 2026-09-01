@@ -2,7 +2,7 @@
 
 ## Ringkasan
 
-Tab baharu yang kemas dan boleh disesuaikan untuk menyimpan laman web kegemaran, carian, nota dan maklumat harian dalam satu tempat.
+Laman yang kerap digunakan, tugasan, kalendar dan widget—kini desktop anda tersusun dengan sempurna.
 
 ## Penerangan
 

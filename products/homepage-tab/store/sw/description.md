@@ -2,7 +2,7 @@
 
 ## Muhtasari
 
-Kichupo kipya kilicho safi na kinachoweza kubinafsishwa, kinachoweka tovuti unazopenda, utafutaji, madokezo na taarifa za kila siku karibu nawe.
+Tovuti zinazotumiwa mara kwa mara, kazi, kalenda na wijeti—sasa eneo-kazi lako limepangwa kikamilifu.
 
 ## Maelezo
 

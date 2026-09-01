@@ -2,7 +2,7 @@
 
 ## Genel bakış
 
-Favori sitelerinizi, aramaları, notları ve günlük bilgileri elinizin altında tutan, sade ve özelleştirilebilir bir yeni sekme sayfası.
+Sık kullanılan siteler, görevler, takvim ve widget'lar; masaüstünüz artık kusursuz biçimde düzenli.
 
 ## Açıklama
 

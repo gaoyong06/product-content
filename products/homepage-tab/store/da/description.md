@@ -2,7 +2,7 @@
 
 ## Overblik
 
-En ren og tilpasningsbar ny fane, hvor dine foretrukne websteder, søgning, noter og daglige oplysninger er lige ved hånden.
+Ofte brugte websteder, opgaver, kalender og widgets – dit skrivebord er nu perfekt organiseret.
 
 ## Beskrivelse
 

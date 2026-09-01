@@ -2,7 +2,7 @@
 
 ## Apžvalga
 
-Švarus ir pritaikomas naujas skirtukas, kuriame lengvai pasiekiamos mėgstamos svetainės, paieška, užrašai ir kasdienė informacija.
+Dažnai naudojamos svetainės, užduotys, kalendorius ir valdikliai – jūsų darbalaukis dabar nepriekaištingai sutvarkytas.
 
 ## Aprašymas
 

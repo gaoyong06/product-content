@@ -2,7 +2,7 @@
 
 ## Pangkalahatang-ideya
 
-Isang malinis at nako-customize na bagong tab kung saan madaling makita ang mga paboritong website, paghahanap, tala, at pang-araw-araw na impormasyon.
+Mga madalas gamitin na site, gawain, kalendaryo at widget—maayos na maayos na ngayon ang iyong desktop.
 
 ## Paglalarawan
 

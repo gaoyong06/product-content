@@ -2,7 +2,7 @@
 
 ## Pregled
 
-Čista i prilagodljiva stranica nove kartice koja drži omiljene web-lokacije, pretraživanje, bilješke i svakodnevne informacije nadohvat ruke.
+Često korištene web-stranice, zadaci, kalendar i widgeti — vaša je radna površina sada savršeno organizirana.
 
 ## Opis
 

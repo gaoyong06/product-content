@@ -2,7 +2,7 @@
 
 ## Przegląd
 
-Przejrzysta i konfigurowalna nowa karta, która zapewnia szybki dostęp do ulubionych stron, wyszukiwania, notatek i codziennych informacji.
+Często używane strony, zadania, kalendarz i widżety — teraz Twój pulpit jest doskonale uporządkowany.
 
 ## Opis
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-A clean new tab page you can arrange around the way you browse. Keep your favorite websites, search, notes, and daily information close at hand.
+Frequently used sites, tasks, calendar, and widgets—your desktop is now perfectly organized.
 
 ## Description
 

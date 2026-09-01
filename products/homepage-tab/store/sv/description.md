@@ -2,7 +2,7 @@
 
 ## Översikt
 
-En ren och anpassningsbar sida för nya flikar, med dina favoritsajter, sökningar, anteckningar och daglig information nära till hands.
+Vanliga webbplatser, uppgifter, kalender och widgetar – ditt skrivbord är nu perfekt organiserat.
 
 ## Beskrivning
 
