@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Panoramica
+Panoramica
 
-Siti usati di frequente, attività, calendario e widget: ora il tuo desktop è perfettamente organizzato.
+Siti frequenti, attività, calendario e widget: ora è tutto in ordine. La tua home, in ogni nuova scheda
 
-## Descrizione
+Descrizione
 
 Quando apri una nuova scheda, di solito vuoi fare una sola cosa: aprire un sito, trovare una risposta o annotare un'idea. HomepageTab riunisce questi accessi in una pagina familiare, così trovi più velocemente il passo successivo con meno distrazioni.
 
@@ -12,7 +12,7 @@ Metti i siti che usi spesso in una posizione facile da raggiungere. Aggiungi, qu
 
 La ricerca continua a usare il servizio di ricerca predefinito del browser e non ne modifica le impostazioni. Dopo l'accesso puoi sincronizzare layout e impostazioni comuni tra i dispositivi supportati; le funzioni locali sono disponibili anche senza account.
 
-## Cosa puoi fare
+Cosa puoi fare
 
 - Tenere a portata di mano siti preferiti e link salvati.
 - Controllare ora, meteo, calendario, conto alla rovescia e fusi orari.

@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Pārskats
+Pārskats
 
-Bieži izmantotās vietnes, uzdevumi, kalendārs un logrīki — jūsu darbvirsma tagad ir nevainojami sakārtota.
+Bieži lietotās vietnes, uzdevumi, kalendārs un logrīki — tagad viss ir sakārtots. Jūsu sākumlapu katrā jaunā cilnē
 
-## Apraksts
+Apraksts
 
 Atverot jaunu cilni, parasti vēlaties izdarīt vienu lietu: atvērt vietni, atrast atbildi vai pierakstīt ideju. HomepageTab apvieno šos sākumpunktus vienā pazīstamā lapā, lai nākamo soli varētu atrast ātrāk un ar mazāk traucēkļiem.
 
@@ -12,7 +12,7 @@ Novietojiet bieži izmantotās vietnes viegli sasniedzamā vietā. Pēc vajadzī
 
 Meklēšana turpina izmantot pārlūkprogrammas pašreizējo noklusējuma meklēšanas pakalpojumu un nemaina tā iestatījumus. Pēc pierakstīšanās varat sinhronizēt izkārtojumu un biežākos iestatījumus atbalstītās ierīcēs; vietējās funkcijas darbojas arī bez konta.
 
-## Ko varat darīt
+Ko varat darīt
 
 - Turēt iecienītās vietnes un saglabātās saites pa rokai.
 - Pārbaudīt laiku, laikapstākļus, kalendāru, atpakaļskaitīšanu un pasaules laiku.

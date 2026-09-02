@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Prehľad
+Prehľad
 
-Často používané weby, úlohy, kalendár a widgety — vaša pracovná plocha je teraz dokonale usporiadaná.
+Často používané weby, úlohy, kalendár a widgety — teraz je všetko v poriadku. Vaša domovská stránka na každej novej karte
 
-## Popis
+Popis
 
 Keď otvoríte novú kartu, zvyčajne chcete urobiť jednu vec: otvoriť web, nájsť odpoveď alebo si zapísať nápad. HomepageTab zhromažďuje tieto vstupy na jednej stránke, aby ste ďalší krok našli ľahšie a bez zbytočného rozptyľovania.
 
@@ -12,7 +12,7 @@ Umiestnite často používané weby na ľahko dostupné miesta. Podľa potreby p
 
 Vyhľadávanie naďalej používa aktuálnu predvolenú vyhľadávaciu službu prehliadača a nemení vaše nastavenia. Po prihlásení môžete synchronizovať rozloženie a bežné nastavenia medzi podporovanými zariadeniami. Miestne funkcie sú dostupné aj bez účtu.
 
-## Čo môžete robiť
+Čo môžete robiť
 
 - Mať často používané weby a uložené odkazy poruke.
 - Kontrolovať čas, počasie, kalendár, odpočítavanie a svetový čas.

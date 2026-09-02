@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Pangkalahatang-ideya
+Pangkalahatang-ideya
 
-Mga madalas gamitin na site, gawain, kalendaryo at widget—maayos na maayos na ngayon ang iyong desktop.
+Mga madalas na site, gawain, kalendaryo, at widget—organisado na ngayon. Ang iyong homepage, sa bawat bagong tab
 
-## Paglalarawan
+Paglalarawan
 
 Kapag nagbukas ka ng bagong tab, karaniwan ay isang bagay lang ang kailangan mo: magbukas ng website, maghanap ng sagot, o magsulat ng ideya. Pinagsasama ng HomepageTab ang mga entry point na ito sa isang pamilyar na page para mas madaling makita ang susunod na hakbang at mabawasan ang abala.
 
@@ -12,7 +12,7 @@ Ilagay ang mga madalas mong gamiting website sa madaling puntahan. Magdagdag ng 
 
 Patuloy na ginagamit ng paghahanap ang kasalukuyang default search service ng browser at hindi binabago ang mga setting nito. Pagkatapos mag-sign in, maaari mong i-sync ang layout at karaniwang setting sa mga suportadong device; magagamit pa rin ang mga lokal na feature nang walang account.
 
-## Mga puwede mong gawin
+Mga puwede mong gawin
 
 - Panatilihing madaling mahanap ang mga paboritong website at naka-save na link.
 - Tingnan ang oras, panahon, kalendaryo, countdown, at world clock.

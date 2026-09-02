@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Ringkasan
+Ringkasan
 
-Laman yang kerap digunakan, tugasan, kalendar dan widget—kini desktop anda tersusun dengan sempurna.
+Laman kerap digunakan, tugasan, kalendar dan widget—kini semuanya tersusun. Laman utama anda dalam setiap tab baharu
 
-## Penerangan
+Penerangan
 
 Apabila anda membuka tab baharu, biasanya anda mahu melakukan satu perkara: membuka laman web, mencari jawapan atau mencatat idea. HomepageTab mengumpulkan pintu masuk ini pada satu halaman yang biasa, supaya langkah seterusnya lebih mudah ditemui dan gangguan berkurang.
 
@@ -12,7 +12,7 @@ Letakkan laman web yang kerap digunakan di tempat yang mudah dicapai. Tambahkan 
 
 Carian terus menggunakan perkhidmatan carian lalai pelayar anda dan tidak mengubah tetapan tersebut. Selepas log masuk, anda boleh menyegerakkan reka letak dan tetapan biasa antara peranti yang disokong; ciri setempat boleh digunakan tanpa akaun.
 
-## Perkara yang boleh dilakukan
+Perkara yang boleh dilakukan
 
 - Pastikan laman web kegemaran dan pautan tersimpan mudah dicapai.
 - Semak masa, cuaca, kalendar, kira detik dan waktu dunia.

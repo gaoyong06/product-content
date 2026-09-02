@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Overzicht
+Overzicht
 
-Veelgebruikte websites, taken, agenda en widgets: je bureaublad is nu perfect georganiseerd.
+Veelgebruikte sites, taken, agenda en widgets — nu is alles op orde. Jouw startpagina in elk nieuw tabblad
 
-## Beschrijving
+Beschrijving
 
 Wanneer je een nieuw tabblad opent, wil je meestal één ding doen: een website openen, een antwoord zoeken of een idee noteren. HomepageTab zet deze ingangen op één vertrouwde pagina, zodat je sneller de volgende stap vindt en minder wordt afgeleid.
 
@@ -12,7 +12,7 @@ Zet veelgebruikte websites op een plek waar je er makkelijk bij kunt. Voeg naar 
 
 Zoeken blijft de huidige standaardzoekdienst van je browser gebruiken en verandert je instellingen niet. Na het inloggen kun je je indeling en algemene instellingen synchroniseren tussen ondersteunde apparaten; lokale functies werken ook zonder account.
 
-## Wat je ermee kunt doen
+Wat je ermee kunt doen
 
 - Veelgebruikte websites en opgeslagen links binnen handbereik houden.
 - Tijd, weer, kalender, aftellingen en wereldtijd bekijken.

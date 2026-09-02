@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Yleiskatsaus
+Yleiskatsaus
 
-Usein käyttämäsi sivustot, tehtävät, kalenteri ja widgetit – työpöytäsi on nyt täydellisessä järjestyksessä.
+Sivustot, tehtävät, kalenteri ja widgetit — nyt kaikki on järjestyksessä. Kotisivusi jokaisessa uudessa välilehdessä
 
-## Kuvaus
+Kuvaus
 
 Kun avaat uuden välilehden, haluat yleensä tehdä yhden asian: avata sivuston, etsiä vastauksen tai kirjoittaa idean muistiin. HomepageTab kokoaa nämä aloitukset yhdelle tutulle sivulle, joten löydät seuraavan vaiheen nopeammin ja häiriöitä on vähemmän.
 
@@ -12,7 +12,7 @@ Sijoita usein käyttämäsi sivustot helposti ulottuville. Lisää tarpeen mukaa
 
 Haku käyttää edelleen selaimesi nykyistä oletushakupalvelua eikä muuta sen asetuksia. Kirjautumisen jälkeen voit synkronoida asettelun ja tavalliset asetukset tuettujen laitteiden välillä; paikalliset ominaisuudet toimivat myös ilman tiliä.
 
-## Mitä voit tehdä
+Mitä voit tehdä
 
 - Pidä suosikkisivustot ja tallennetut linkit helposti saatavilla.
 - Tarkista aika, sää, kalenteri, lähtölaskennat ja maailmankello.

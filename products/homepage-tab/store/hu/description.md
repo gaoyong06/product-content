@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Áttekintés
+Áttekintés
 
-Gyakran használt webhelyek, feladatok, naptár és widgetek – az asztali felületed most tökéletesen rendezett.
+Gyakran használt oldalak, feladatok, naptár és widgetek — most minden rendben. A kezdőlapod minden új lapon
 
-## Leírás
+Leírás
 
 Amikor új lapot nyitsz, általában egy dolgot szeretnél tenni: megnyitni egy webhelyet, megtalálni egy választ vagy feljegyezni egy ötletet. A HomepageTab ezeket a belépési pontokat egy ismerős oldalon egyesíti, így gyorsabban megtalálod a következő lépést, kevesebb zavaró tényezővel.
 
@@ -12,7 +12,7 @@ Helyezd a gyakran használt webhelyeket könnyen elérhető helyre. Szükség sz
 
 A keresés továbbra is a böngésződ aktuális alapértelmezett keresőszolgáltatását használja, és nem módosítja a beállításaidat. Bejelentkezés után támogatott eszközök között szinkronizálhatod az elrendezést és a gyakori beállításokat; a helyi funkciók fiók nélkül is használhatók.
 
-## Mit tehetsz vele?
+Mit tehetsz vele?
 
 - Kedvenc webhelyeidet és mentett hivatkozásaidat kéznél tarthatod.
 - Megnézheted az időt, az időjárást, a naptárt, a visszaszámlálást és a világidőt.

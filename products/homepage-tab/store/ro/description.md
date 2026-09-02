@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Prezentare generală
+Prezentare generală
 
-Site-uri folosite frecvent, sarcini, calendar și widgeturi — acum desktopul tău este perfect organizat.
+Site-uri frecvente, sarcini, calendar și widgeturi — acum totul este în ordine. Pagina ta de start, în fiecare filă nouă
 
-## Descriere
+Descriere
 
 Când deschizi o filă nouă, de obicei vrei să faci un singur lucru: să deschizi un site, să găsești un răspuns sau să notezi o idee. HomepageTab adună aceste puncte de pornire într-o singură pagină, astfel încât următorul pas să fie mai ușor de găsit, fără distrageri.
 
@@ -12,7 +12,7 @@ Pune site-urile folosite frecvent în locuri ușor accesibile. Adaugă, când ai
 
 Căutarea folosește în continuare serviciul de căutare implicit al browserului și nu îți schimbă setările. După autentificare, poți sincroniza aspectul și setările uzuale între dispozitivele acceptate. Funcțiile locale sunt disponibile și fără cont.
 
-## Ce poți face
+Ce poți face
 
 - Păstrează la îndemână site-urile frecvente și linkurile salvate.
 - Verifică ora, vremea, calendarul, numărătorile inverse și ora mondială.

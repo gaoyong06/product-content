@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Översikt
+Översikt
 
-Vanliga webbplatser, uppgifter, kalender och widgetar – ditt skrivbord är nu perfekt organiserat.
+Ofta använda webbplatser, uppgifter, kalender och widgetar — nu är allt i ordning. Din startsida i varje ny flik
 
-## Beskrivning
+Beskrivning
 
 När du öppnar en ny flik vill du oftast göra en sak: öppna en webbplats, hitta ett svar eller skriva ned en idé. HomepageTab samlar dessa startpunkter på en sida, så att nästa steg blir enklare att hitta och skärmen förblir lugn.
 
@@ -12,7 +12,7 @@ Placera webbplatser du ofta använder där de är lätta att nå. Lägg vid beho
 
 Sökningen fortsätter att använda webbläsarens aktuella standardsöktjänst och ändrar inte dina vanor. När du loggar in kan du synkronisera layout och vanliga inställningar mellan enheter som stöds. Lokala funktioner finns även utan konto.
 
-## Det här kan du göra
+Det här kan du göra
 
 - Ha vanliga webbplatser och sparade länkar nära till hands.
 - Se tid, väder, kalender, nedräkningar och världstid.

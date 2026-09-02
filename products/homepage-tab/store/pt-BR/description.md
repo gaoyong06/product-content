@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Visão geral
+Visão geral
 
-Sites usados com frequência, tarefas, calendário e widgets: agora sua área de trabalho está perfeitamente organizada.
+Sites, tarefas, calendário e widgets: agora está tudo em ordem. Sua página inicial, em cada nova aba
 
-## Descrição
+Descrição
 
 Ao abrir uma nova aba, normalmente você quer fazer uma coisa: abrir um site, encontrar uma resposta ou anotar uma ideia. O HomepageTab reúne esses pontos de partida em uma única página, para que o próximo passo seja mais fácil de encontrar e a tela continue tranquila.
 
@@ -12,7 +12,7 @@ Coloque os sites que você usa com frequência em locais fáceis de acessar. Adi
 
 A pesquisa continua usando o serviço de pesquisa padrão atual do seu navegador, sem alterar seus hábitos. Ao entrar, você pode sincronizar o layout e as configurações principais entre dispositivos compatíveis. Os recursos locais também funcionam sem uma conta.
 
-## O que você pode fazer
+O que você pode fazer
 
 - Deixar sites frequentes e links salvos sempre à mão.
 - Consultar hora, clima, calendário, contagens regressivas e horários do mundo.

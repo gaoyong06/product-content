@@ -18,8 +18,8 @@ async (page) => {
   }
 
   for (const locale of locales) {
-    await capture(locale, 'marquee', 1400, 560, 'chrome-marquee-promo.jpg', { type: 'jpeg', quality: 94 });
-    await capture(locale, 'small', 440, 280, 'chrome-small-promo.jpg', { type: 'jpeg', quality: 94 });
+    await capture(locale, 'marquee', 1400, 560, 'chrome-marquee-promo.png', { type: 'png' });
+    await capture(locale, 'small', 440, 280, 'chrome-small-promo.png', { type: 'png' });
     await capture(locale, 'dashboard', 1280, 800, 'chrome-screenshot-1-dashboard.png', { type: 'png' });
   }
 

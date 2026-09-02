@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Muhtasari
+Muhtasari
 
-Tovuti zinazotumiwa mara kwa mara, kazi, kalenda na wijeti—sasa eneo-kazi lako limepangwa kikamilifu.
+Tovuti unazotumia, kazi, kalenda na wijeti—sasa kila kitu kimepangwa. Ukurasa wako wa nyumbani katika kila kichupo kipya
 
-## Maelezo
+Maelezo
 
 Unapofungua kichupo kipya, kwa kawaida unataka kufanya jambo moja: kufungua tovuti, kutafuta jibu au kuandika wazo. HomepageTab huweka njia hizi kwenye ukurasa mmoja unaouzoea, ili upate hatua inayofuata kwa haraka na usumbufu mdogo.
 
@@ -12,7 +12,7 @@ Weka tovuti unazotumia mara kwa mara mahali panapofikika kwa urahisi. Ongeza wij
 
 Utafutaji utaendelea kutumia huduma chaguo-msingi ya utafutaji ya kivinjari chako na hautabadilisha mipangilio yako. Baada ya kuingia unaweza kusawazisha mpangilio na mipangilio ya kawaida kwenye vifaa vinavyotumika; vipengele vya ndani vinaweza kutumika bila akaunti.
 
-## Unachoweza kufanya
+Unachoweza kufanya
 
 - Kuweka tovuti unazopenda na viungo vilivyohifadhiwa karibu.
 - Kuangalia saa, hali ya hewa, kalenda, hesabu za kurudi nyuma na saa za dunia.

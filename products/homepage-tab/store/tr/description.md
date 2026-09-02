@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Genel bakış
+Genel bakış
 
-Sık kullanılan siteler, görevler, takvim ve widget'lar; masaüstünüz artık kusursuz biçimde düzenli.
+Sık kullanılan siteler, görevler, takvim ve araçlar — artık her şey düzenli. Her yeni sekmede ana sayfanız
 
-## Açıklama
+Açıklama
 
 Yeni bir sekme açtığınızda genellikle tek bir şey yapmak istersiniz: bir siteyi açmak, bir yanıt bulmak veya bir fikri not etmek. HomepageTab bu başlangıç noktalarını tek sayfada bir araya getirir; böylece sıradaki adımı daha kolay bulur ve daha az dikkatiniz dağılır.
 
@@ -12,7 +12,7 @@ Sık kullandığınız siteleri kolay erişilecek yerlere yerleştirin. İhtiya�
 
 Arama, tarayıcınızın geçerli varsayılan arama hizmetini kullanmaya devam eder ve alışkanlıklarınızı değiştirmez. Giriş yaptığınızda düzeni ve temel ayarları desteklenen cihazlar arasında senkronize edebilirsiniz. Yerel özellikler hesap olmadan da kullanılabilir.
 
-## Yapabilecekleriniz
+Yapabilecekleriniz
 
 - Sık kullandığınız siteleri ve kaydettiğiniz bağlantıları elinizin altında tutun.
 - Saati, hava durumunu, takvimi, geri sayımları ve dünya saatini kontrol edin.

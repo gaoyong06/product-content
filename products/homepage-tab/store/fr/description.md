@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Présentation
+Présentation
 
-Sites fréquemment utilisés, tâches, calendrier et widgets : votre bureau est désormais parfaitement organisé.
+Sites, tâches, calendrier et widgets : tout est désormais en ordre. Votre page d'accueil, dans chaque nouvel onglet
 
-## Description
+Description
 
 Lorsque vous ouvrez un nouvel onglet, vous voulez généralement faire une seule chose : ouvrir un site, trouver une réponse ou noter une idée. HomepageTab réunit ces accès sur une page familière pour vous aider à trouver l'étape suivante plus vite, avec moins de distractions.
 
@@ -12,7 +12,7 @@ Placez les sites que vous utilisez souvent à portée de main. Ajoutez, selon vo
 
 La recherche continue d'utiliser le service de recherche par défaut de votre navigateur et ne modifie pas ses réglages. Après connexion, vous pouvez synchroniser la mise en page et les réglages courants entre les appareils compatibles ; les fonctions locales restent disponibles sans compte.
 
-## Ce que vous pouvez faire
+Ce que vous pouvez faire
 
 - Garder vos sites favoris et vos liens enregistrés à portée de main.
 - Consulter l'heure, la météo, le calendrier, les comptes à rebours et l'heure mondiale.

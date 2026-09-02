@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Pregled
+Pregled
 
-Pogosto uporabljena spletna mesta, opravila, koledar in gradniki – vaše namizje je zdaj popolnoma urejeno.
+Pogosto uporabljena mesta, opravila, koledar in gradniki — zdaj je vse urejeno. Vaša domača stran v vsakem novem zavihku
 
-## Opis
+Opis
 
 Ko odprete nov zavihek, običajno želite narediti eno stvar: odpreti spletno mesto, poiskati odgovor ali zapisati idejo. HomepageTab te začetne točke združi na eni strani, zato lažje najdete naslednji korak in vas manj moti.
 
@@ -12,7 +12,7 @@ Pogosto uporabljena spletna mesta postavite na lahko dostopna mesta. Po potrebi 
 
 Iskanje še naprej uporablja trenutno privzeto iskalno storitev brskalnika in ne spreminja vaših navad. Po prijavi lahko med podprtimi napravami sinhronizirate razporeditev in običajne nastavitve. Lokalne funkcije so na voljo tudi brez računa.
 
-## Kaj lahko počnete
+Kaj lahko počnete
 
 - Pogosto uporabljena spletna mesta in shranjene povezave imejte pri roki.
 - Preverjajte čas, vreme, koledar, odštevanje in svetovni čas.

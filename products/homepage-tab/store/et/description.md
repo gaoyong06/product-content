@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Ülevaade
+Ülevaade
 
-Sageli kasutatavad saidid, ülesanded, kalender ja vidinad – sinu töölaud on nüüd täiuslikult korras.
+Sageli kasutatavad saidid, ülesanded, kalender ja vidinad — nüüd on kõik korras. Sinu avaleht igal uuel vahekaardil
 
-## Kirjeldus
+Kirjeldus
 
 Uue vahelehe avamisel tahad tavaliselt teha üht asja: avada veebisaidi, leida vastuse või panna idee kirja. HomepageTab koondab need sissepääsud ühele tuttavale lehele, et leiaksid järgmise sammu kiiremini ja väiksema segadusega.
 
@@ -12,7 +12,7 @@ Paiguta sageli kasutatavad saidid kergesti ligipääsetavasse kohta. Lisa vajadu
 
 Otsing kasutab endiselt brauseri praegust vaikeotsinguteenust ega muuda sinu seadeid. Sisselogimisel saad toetatud seadmete vahel sünkroonida paigutuse ja tavaseaded; kohalikke funktsioone saab kasutada ka ilma kontota.
 
-## Mida saad teha
+Mida saad teha
 
 - Hoida lemmikveebisaidid ja salvestatud lingid käeulatuses.
 - Vaadata aega, ilma, kalendrit, pöördloendusi ja maailmakella.

@@ -27,25 +27,51 @@ for (const [locale, measurement] of Object.entries(measurements)) {
     await page.setViewportSize({ width: variant.width, height: variant.height });
     await page.goto(`${baseUrl}?locale=${encodeURIComponent(locale)}&variant=${variant.name}`, { waitUntil: 'networkidle' });
     await page.waitForFunction(() => document.documentElement.dataset.ready === 'true');
-    const result = await page.evaluate(({ selector, rightToLeft }) => {
+    const result = await page.evaluate(({ selector, rightToLeft, variantName }) => {
       const rect = document.querySelector(selector).getBoundingClientRect();
+      const smallCopy = variantName === 'small' ? (() => {
+        const copy = document.querySelector('.small-promo-copy').getBoundingClientRect();
+        const line = (copySelector) => {
+          const element = document.querySelector(copySelector);
+          const lineHeight = Number.parseFloat(window.getComputedStyle(element).lineHeight);
+          const bounds = element.getBoundingClientRect();
+          return {
+            isSingleLine: bounds.height <= lineHeight + 0.1,
+            isHorizontallyContained: element.scrollWidth <= element.clientWidth + 0.1
+          };
+        };
+
+        return {
+          isWithinViewport: copy.left >= 0 && copy.top >= 0 && copy.right <= window.innerWidth && copy.bottom <= window.innerHeight,
+          headline: line('.small-promo-headline'),
+          feature: line('.small-promo-feature')
+        };
+      })() : null;
       return {
         anchor: rightToLeft ? rect.right : rect.left,
         measuredInlineStart: Number(document.documentElement.dataset[selector === '.dashboard-message'
           ? 'dashboardWidgetInlineStart'
-          : 'smallWidgetInlineStart'])
+          : 'smallWidgetInlineStart']),
+        smallCopy
       };
-    }, { selector: variant.selector, rightToLeft: isRightToLeft });
+    }, { selector: variant.selector, rightToLeft: isRightToLeft, variantName: variant.name });
     const expectedAnchor = isRightToLeft ? variant.width - variant.inlineStart : variant.inlineStart;
+    const smallCopyIsValid = variant.name !== 'small'
+      || (result.smallCopy.isWithinViewport
+        && result.smallCopy.headline.isSingleLine
+        && result.smallCopy.headline.isHorizontallyContained
+        && result.smallCopy.feature.isSingleLine
+        && result.smallCopy.feature.isHorizontallyContained);
 
-    if (!isAligned(result.anchor, expectedAnchor) || !isAligned(result.measuredInlineStart, variant.inlineStart)) {
+    if (!isAligned(result.anchor, expectedAnchor) || !isAligned(result.measuredInlineStart, variant.inlineStart) || !smallCopyIsValid) {
       failures.push({
         locale,
         variant: variant.name,
         expectedAnchor,
         actualAnchor: result.anchor,
         expectedInlineStart: variant.inlineStart,
-        measuredInlineStart: result.measuredInlineStart
+        measuredInlineStart: result.measuredInlineStart,
+        smallCopy: result.smallCopy
       });
     }
   }

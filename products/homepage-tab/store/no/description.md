@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Oversikt
+Oversikt
 
-Ofte brukte nettsteder, oppgaver, kalender og widgeter – skrivebordet ditt er nå perfekt organisert.
+Ofte brukte nettsteder, oppgaver, kalender og widgeter — nå er alt i orden. Startsiden din i hver nye fane
 
-## Beskrivelse
+Beskrivelse
 
 Når du åpner en ny fane, vil du som regel gjøre én ting: åpne et nettsted, finne et svar eller skrive ned en idé. HomepageTab samler disse inngangene på én kjent side, slik at du finner neste steg raskere og blir mindre forstyrret.
 
@@ -12,7 +12,7 @@ Plasser nettsteder du bruker ofte, der de er enkle å nå. Legg til widgeter for
 
 Søk bruker fortsatt nettleserens gjeldende standardsøketjeneste og endrer ikke innstillingene dine. Når du logger inn, kan du synkronisere oppsett og vanlige innstillinger mellom støttede enheter; lokale funksjoner kan brukes uten konto.
 
-## Dette kan du gjøre
+Dette kan du gjøre
 
 - Ha favorittnettsteder og lagrede lenker lett tilgjengelig.
 - Se klokkeslett, vær, kalender, nedtellinger og verdenstid.

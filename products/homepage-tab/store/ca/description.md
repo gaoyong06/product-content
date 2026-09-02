@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Descripció breu
+Descripció breu
 
-Llocs web d'ús freqüent, tasques, calendari i ginys: ara l'escriptori està perfectament organitzat.
+Llocs habituals, tasques, calendari i ginys, ara tot està en ordre. La teva pàgina d'inici, a cada pestanya nova
 
-## Descripció
+Descripció
 
 Quan obres una pestanya nova, normalment vols fer una sola cosa: obrir un lloc web, buscar una resposta o apuntar una idea. HomepageTab reuneix aquests accessos en una pàgina coneguda perquè trobis el pas següent amb menys distraccions.
 
@@ -12,7 +12,7 @@ Col·loca els llocs que uses sovint allà on siguin fàcils d'assolir. Afegeix g
 
 La cerca continua utilitzant el servei de cerca predeterminat del navegador i no en modifica la configuració. Després d'iniciar sessió pots sincronitzar el disseny i les opcions habituals entre dispositius compatibles, o utilitzar les funcions locals sense compte.
 
-## Què hi pots fer
+Què hi pots fer
 
 - Tenir els llocs preferits i els enllaços desats sempre a mà.
 - Consultar l'hora, el temps, el calendari, el compte enrere i l'hora mundial.

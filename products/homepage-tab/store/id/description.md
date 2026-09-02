@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Ringkasan
+Ringkasan
 
-Situs yang sering digunakan, tugas, kalender, dan widget—kini desktop Anda tertata sempurna.
+Situs yang sering dipakai, tugas, kalender, dan widget—kini semuanya rapi. Beranda Anda di setiap tab baru
 
-## Deskripsi
+Deskripsi
 
 Saat membuka tab baru, biasanya Anda hanya ingin melakukan satu hal: membuka situs, mencari jawaban, atau mencatat ide. HomepageTab menempatkan semua pintu masuk itu di satu halaman yang familiar, sehingga langkah berikutnya lebih mudah ditemukan dan gangguan berkurang.
 
@@ -12,7 +12,7 @@ Letakkan situs yang sering digunakan di tempat yang mudah dijangkau. Tambahkan w
 
 Pencarian tetap menggunakan layanan pencarian default browser dan tidak mengubah pengaturannya. Setelah masuk, Anda dapat menyinkronkan tata letak dan pengaturan umum di perangkat yang didukung; fitur lokal tetap dapat digunakan tanpa akun.
 
-## Yang dapat Anda lakukan
+Yang dapat Anda lakukan
 
 - Menjaga situs favorit dan tautan tersimpan tetap mudah ditemukan.
 - Melihat waktu, cuaca, kalender, hitung mundur, dan waktu dunia.

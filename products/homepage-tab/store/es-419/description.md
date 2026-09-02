@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Descripción general
+Descripción general
 
-Sitios web de uso frecuente, tareas, calendario y widgets: ahora tu escritorio está perfectamente organizado.
+Sitios, tareas, calendario y widgets: ahora todo está en orden. Tu página de inicio, en cada pestaña nueva
 
-## Descripción
+Descripción
 
 Al abrir una pestaña nueva, normalmente quieres hacer una sola cosa: abrir un sitio, encontrar una respuesta o anotar una idea. HomepageTab reúne esas entradas en una sola página para que encuentres más rápido el siguiente paso y haya menos distracciones.
 
@@ -12,7 +12,7 @@ Coloca los sitios que usas con frecuencia en lugares fáciles de alcanzar. Agreg
 
 La búsqueda sigue usando el servicio de búsqueda predeterminado actual de tu navegador, sin cambiar tus hábitos. Al iniciar sesión puedes sincronizar el diseño y los ajustes habituales entre dispositivos compatibles. Las funciones locales también están disponibles sin una cuenta.
 
-## Qué puedes hacer
+Qué puedes hacer
 
 - Mantener cerca tus sitios frecuentes y enlaces guardados.
 - Consultar la hora, el clima, el calendario, las cuentas regresivas y la hora mundial.

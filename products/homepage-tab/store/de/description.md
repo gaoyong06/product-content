@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Überblick
+Überblick
 
-Häufig genutzte Websites, Aufgaben, Kalender und Widgets – dein Desktop ist jetzt perfekt organisiert.
+Websites, Aufgaben, Kalender und Widgets – jetzt ist alles aufgeräumt. Deine Homepage in jedem neuen Tab
 
-## Beschreibung
+Beschreibung
 
 Wenn du einen neuen Tab öffnest, möchtest du meistens eine Sache erledigen: eine Website öffnen, eine Antwort finden oder eine Idee notieren. HomepageTab bündelt diese Einstiege auf einer vertrauten Seite, damit du den nächsten Schritt schneller findest und weniger abgelenkt wirst.
 
@@ -12,7 +12,7 @@ Platziere häufig verwendete Websites dort, wo sie leicht erreichbar sind. Füge
 
 Die Suche nutzt weiterhin den aktuellen Standardsuchdienst deines Browsers und ändert deine Einstellungen nicht. Nach der Anmeldung kannst du Layout und übliche Einstellungen zwischen unterstützten Geräten synchronisieren; lokale Funktionen sind auch ohne Konto verfügbar.
 
-## Das kannst du tun
+Das kannst du tun
 
 - Lieblingswebsites und gespeicherte Links griffbereit halten.
 - Zeit, Wetter, Kalender, Countdowns und Weltzeit prüfen.

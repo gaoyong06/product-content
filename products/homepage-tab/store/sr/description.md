@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Pregled
+Pregled
 
-Често коришћени сајтови, задаци, календар и виџети — ваша радна површина је сада савршено уређена.
+Сајтови, задаци, календар и виџети — сада је све уредно. Ваша почетна у свакој новој картици
 
-## Opis
+Opis
 
 Kada otvorite novu karticu, obično želite da uradite jednu stvar: otvorite sajt, pronađete odgovor ili zapišete ideju. HomepageTab okuplja ove početne tačke na jednoj stranici, pa je sledeći korak lakše pronaći, bez nepotrebnih ometanja.
 
@@ -12,7 +12,7 @@ Postavite često korišćene sajtove tamo gde su lako dostupni. Po potrebi dodaj
 
 Pretraga i dalje koristi trenutnu podrazumevanu uslugu pretrage u pregledaču i ne menja vaše navike. Nakon prijavljivanja možete da sinhronizujete raspored i osnovna podešavanja između podržanih uređaja. Lokalne funkcije dostupne su i bez naloga.
 
-## Šta možete da radite
+Šta možete da radite
 
 - Držite često korišćene sajtove i sačuvane veze nadohvat ruke.
 - Proverite vreme, vremensku prognozu, kalendar, odbrojavanje i svetsko vreme.

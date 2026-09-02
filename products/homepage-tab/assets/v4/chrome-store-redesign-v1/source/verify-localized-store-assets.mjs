@@ -12,8 +12,8 @@ const definitions = [
   { filename: 'chrome-screenshot-3-wallpaper.png', width: 1280, height: 800, format: 'png' },
   { filename: 'chrome-screenshot-4-widgets.png', width: 1280, height: 800, format: 'png' },
   { filename: 'chrome-screenshot-5-friday.png', width: 1280, height: 800, format: 'png' },
-  { filename: 'chrome-small-promo.jpg', width: 440, height: 280, format: 'jpeg' },
-  { filename: 'chrome-marquee-promo.jpg', width: 1400, height: 560, format: 'jpeg' }
+  { filename: 'chrome-small-promo.png', width: 440, height: 280, format: 'png' },
+  { filename: 'chrome-marquee-promo.png', width: 1400, height: 560, format: 'png' }
 ];
 
 function inspect(path) {

@@ -1,10 +1,10 @@
-# HomepageTab Chrome Web Store Listing
+HomepageTab
 
-## Overview
+Overview
 
-Frequently used sites, tasks, calendar, and widgets—your desktop is now perfectly organized.
+Frequently used sites, tasks, calendar, and widgets—now perfectly organized. Your homepage, in every new tab
 
-## Description
+Description
 
 When you open a new tab, you usually want to do one thing: open a website, look something up, or write something down. HomepageTab keeps these entry points on one page, so the next step is easier to find while the page stays calm.
 
@@ -16,7 +16,7 @@ After signing in, you can sync your layout and common settings across supported 
 
 HomepageTab is for people who want a new tab that stays simple and convenient while keeping the things they use most within reach. Install it, open a new tab, and get started.
 
-## What You Can Do
+What You Can Do
 
 - Keep frequently used websites and saved links easy to find.
 - Use widgets to check the time, weather, calendar, countdowns, and world clocks.
@@ -27,10 +27,10 @@ HomepageTab is for people who want a new tab that stays simple and convenient wh
 
 HomepageTab replaces only the new tab page. It does not change your browser's default search service.
 
-**HomepageTab**
+HomepageTab
 
-**Your homepage, in every new tab**
-**Let the open space speak for itself**
+Your homepage, in every new tab
+Let the open space speak for itself
 
 HomepageTab web app: https://web.homepagetab.com/
 HomepageTab website: https://www.homepagetab.com/

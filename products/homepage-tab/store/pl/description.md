@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Przegląd
+Przegląd
 
-Często używane strony, zadania, kalendarz i widżety — teraz Twój pulpit jest doskonale uporządkowany.
+Strony, zadania, kalendarz i widżety — teraz wszystko jest uporządkowane. Twoja strona główna w każdej nowej karcie
 
-## Opis
+Opis
 
 Po otwarciu nowej karty zwykle chcesz zrobić jedną rzecz: otworzyć stronę, znaleźć odpowiedź albo zapisać pomysł. HomepageTab zbiera te wejścia na jednej znajomej stronie, dzięki czemu szybciej znajdziesz kolejny krok i łatwiej zachowasz koncentrację.
 
@@ -12,7 +12,7 @@ Umieść często używane strony w łatwo dostępnym miejscu. W razie potrzeby d
 
 Wyszukiwanie nadal korzysta z bieżącej domyślnej usługi wyszukiwania przeglądarki i nie zmienia jej ustawień. Po zalogowaniu możesz synchronizować układ i podstawowe ustawienia między obsługiwanymi urządzeniami; funkcje lokalne działają także bez konta.
 
-## Co możesz zrobić
+Co możesz zrobić
 
 - Mieć ulubione strony i zapisane linki zawsze pod ręką.
 - Sprawdzać czas, pogodę, kalendarz, odliczanie i czas na świecie.

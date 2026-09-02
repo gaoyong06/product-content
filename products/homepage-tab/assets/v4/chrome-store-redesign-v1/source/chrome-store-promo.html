@@ -113,16 +113,59 @@
         object-fit: cover;
       }
 
-      .small-product-name {
+      .small-promo-copy {
         position: absolute;
         bottom: 18px;
         left: var(--widget-inline-start);
-        margin: 0;
         color: #ffffff;
+      }
+
+      .small-product-name {
+        margin: 0;
         font-size: 18px;
         font-weight: 700;
         line-height: 1;
         text-shadow: 0 1px 8px rgba(27, 58, 78, 0.66);
+      }
+
+      .small-promo-headline,
+      .small-promo-feature {
+        display: none;
+      }
+
+      .small[data-copy-layout="expanded"] .small-promo-copy {
+        bottom: 7px;
+        max-width: calc(100% - var(--widget-inline-start) - 16px);
+      }
+
+      .small[data-copy-layout="expanded"] .small-product-name {
+        color: #dff6ff;
+        font-size: 11px;
+        font-weight: 600;
+        line-height: 1.2;
+      }
+
+      .small[data-copy-layout="expanded"] .small-promo-headline,
+      .small[data-copy-layout="expanded"] .small-promo-feature {
+        display: block;
+        margin: 0;
+        text-shadow: 0 1px 8px rgba(27, 58, 78, 0.66);
+      }
+
+      .small[data-copy-layout="expanded"] .small-promo-headline {
+        margin-top: 3px;
+        color: #ffffff;
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 1.2;
+      }
+
+      .small[data-copy-layout="expanded"] .small-promo-feature {
+        margin-top: 2px;
+        color: #bff3ff;
+        font-size: 12px;
+        font-weight: 600;
+        line-height: 1.3;
       }
 
       .dashboard-message {
@@ -163,9 +206,10 @@
         grid-row: 1;
       }
 
-      html[dir="rtl"] .small-product-name {
+      html[dir="rtl"] .small-promo-copy {
         right: var(--widget-inline-start);
         left: auto;
+        text-align: right;
       }
 
       html[dir="rtl"] .dashboard-message {
@@ -189,7 +233,11 @@
       </section>
       <section class="small" aria-label="HomepageTab dashboard">
         <img class="base-screen" alt="HomepageTab dashboard">
-        <h1 class="small-product-name">HomepageTab</h1>
+        <div class="small-promo-copy">
+          <h1 class="small-product-name">HomepageTab</h1>
+          <p class="small-promo-headline" data-copy="small-promo-headline"></p>
+          <p class="small-promo-feature" data-copy="small-promo-feature"></p>
+        </div>
       </section>
       <section class="dashboard" aria-label="HomepageTab dashboard">
         <img class="base-screen" alt="HomepageTab dashboard">
@@ -223,6 +271,16 @@
       document.querySelectorAll('[data-copy="dashboard-feature"]').forEach((element) => {
         element.textContent = entry.dashboardFeatureLine ?? entry.marqueeFeatureLine;
       });
+      if (entry.smallPromoHeadline && entry.smallPromoFeatureLine) {
+        const small = document.querySelector('.small');
+        small.dataset.copyLayout = 'expanded';
+        document.querySelectorAll('[data-copy="small-promo-headline"]').forEach((element) => {
+          element.textContent = entry.smallPromoHeadline;
+        });
+        document.querySelectorAll('[data-copy="small-promo-feature"]').forEach((element) => {
+          element.textContent = entry.smallPromoFeatureLine;
+        });
+      }
 
       const screenshotPath = `../${encodeURIComponent(locale)}/source/chrome-screenshot-1-dashboard-base.png`;
       const images = [...document.querySelectorAll('.base-screen')];

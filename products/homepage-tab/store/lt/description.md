@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Apžvalga
+Apžvalga
 
-Dažnai naudojamos svetainės, užduotys, kalendorius ir valdikliai – jūsų darbalaukis dabar nepriekaištingai sutvarkytas.
+Svetainės, užduotys, kalendorius ir valdikliai — dabar viskas tvarkinga. Jūsų pradžia kiekvienoje naujoje kortelėje
 
-## Aprašymas
+Aprašymas
 
 Atidarę naują skirtuką dažniausiai norite padaryti vieną dalyką: atverti svetainę, rasti atsakymą arba užsirašyti idėją. HomepageTab sutelkia šiuos pradžios taškus viename pažįstamame puslapyje, todėl kitą žingsnį rasite greičiau ir su mažiau trukdžių.
 
@@ -12,7 +12,7 @@ Dažnai naudojamas svetaines laikykite lengvai pasiekiamoje vietoje. Prireikus p
 
 Paieška ir toliau naudoja dabartinę numatytąją naršyklės paieškos paslaugą ir nekeičia jos nustatymų. Prisijungę galite sinchronizuoti išdėstymą ir pagrindinius nustatymus palaikomuose įrenginiuose; vietinėmis funkcijomis galima naudotis ir be paskyros.
 
-## Ką galite daryti
+Ką galite daryti
 
 - Laikyti mėgstamas svetaines ir išsaugotas nuorodas po ranka.
 - Tikrinti laiką, orus, kalendorių, atgalinį skaičiavimą ir pasaulio laiką.

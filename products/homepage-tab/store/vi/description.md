@@ -1,10 +1,10 @@
-# HomepageTab
+HomepageTab
 
-## Tổng quan
+Tổng quan
 
-Các trang web thường dùng, việc cần làm, lịch và tiện ích — giờ đây màn hình nền của bạn được sắp xếp gọn gàng.
+Trang thường dùng, việc cần làm, lịch và tiện ích — giờ đã gọn gàng. Trang chủ của bạn trong mọi thẻ mới
 
-## Mô tả
+Mô tả
 
 Khi mở một tab mới, bạn thường chỉ muốn làm một việc: mở một trang web, tìm câu trả lời hoặc ghi lại một ý tưởng. HomepageTab tập hợp các điểm bắt đầu này trên một trang, để bạn dễ tìm bước tiếp theo và ít bị phân tâm hơn.
 
@@ -12,7 +12,7 @@ Khi mở một tab mới, bạn thường chỉ muốn làm một việc: mở m
 
 Tính năng tìm kiếm vẫn sử dụng dịch vụ tìm kiếm mặc định hiện tại của trình duyệt và không thay đổi thói quen của bạn. Sau khi đăng nhập, bạn có thể đồng bộ bố cục và các cài đặt thường dùng giữa những thiết bị được hỗ trợ. Các tính năng cục bộ vẫn hoạt động mà không cần tài khoản.
 
-## Bạn có thể làm gì
+Bạn có thể làm gì
 
 - Giữ các trang web thường dùng và liên kết đã lưu luôn trong tầm tay.
 - Xem giờ, thời tiết, lịch, các mốc đếm ngược và giờ thế giới.
