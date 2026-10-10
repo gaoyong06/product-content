@@ -1,10 +1,4 @@
-HomepageTab
-
-Apžvalga
-
-Svetainės, užduotys, kalendorius ir valdikliai — dabar viskas tvarkinga. Jūsų pradžia kiekvienoje naujoje kortelėje
-
-Aprašymas
+Mėgstamos svetainės, žymės ir užduotys vienoje vietoje. Pritaikykite naršyklės pradžios puslapį naudodami valdiklius.
 
 Atidarę naują skirtuką dažniausiai norite padaryti vieną dalyką: atverti svetainę, rasti atsakymą arba užsirašyti idėją. HomepageTab sutelkia šiuos pradžios taškus viename pažįstamame puslapyje, todėl kitą žingsnį rasite greičiau ir su mažiau trukdžių.
 

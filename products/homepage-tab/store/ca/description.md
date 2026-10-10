@@ -1,10 +1,4 @@
-HomepageTab
-
-Descripció breu
-
-Llocs habituals, tasques, calendari i ginys, ara tot està en ordre. La teva pàgina d'inici, a cada pestanya nova
-
-Descripció
+Webs preferits, adreces d'interès i tasques a mà. Personalitza la pàgina d'inici del navegador amb ginys.
 
 Quan obres una pestanya nova, normalment vols fer una sola cosa: obrir un lloc web, buscar una resposta o apuntar una idea. HomepageTab reuneix aquests accessos en una pàgina coneguda perquè trobis el pas següent amb menys distraccions.
 

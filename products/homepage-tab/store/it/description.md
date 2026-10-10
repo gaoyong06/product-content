@@ -1,10 +1,4 @@
-HomepageTab
-
-Panoramica
-
-Siti frequenti, attività, calendario e widget: ora è tutto in ordine. La tua home, in ogni nuova scheda
-
-Descrizione
+Siti preferiti, segnalibri e attività a portata di mano. Personalizza la pagina iniziale del browser con i widget.
 
 Quando apri una nuova scheda, di solito vuoi fare una sola cosa: aprire un sito, trovare una risposta o annotare un'idea. HomepageTab riunisce questi accessi in una pagina familiare, così trovi più velocemente il passo successivo con meno distrazioni.
 

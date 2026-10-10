@@ -1,10 +1,4 @@
-HomepageTab
-
-Prezentare generală
-
-Site-uri frecvente, sarcini, calendar și widgeturi — acum totul este în ordine. Pagina ta de start, în fiecare filă nouă
-
-Descriere
+Site-uri preferate, marcaje și sarcini la îndemână. Personalizează pagina de pornire a browserului cu widgeturi.
 
 Când deschizi o filă nouă, de obicei vrei să faci un singur lucru: să deschizi un site, să găsești un răspuns sau să notezi o idee. HomepageTab adună aceste puncte de pornire într-o singură pagină, astfel încât următorul pas să fie mai ușor de găsit, fără distrageri.
 

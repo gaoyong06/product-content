@@ -1,10 +1,4 @@
-HomepageTab
-
-Visão geral
-
-Sites, tarefas, calendário e widgets: agora está tudo em ordem. Sua página inicial, em cada nova aba
-
-Descrição
+Sites, favoritos e tarefas sempre à mão. Personalize a página inicial do navegador com widgets.
 
 Ao abrir uma nova aba, normalmente você quer fazer uma coisa: abrir um site, encontrar uma resposta ou anotar uma ideia. O HomepageTab reúne esses pontos de partida em uma única página, para que o próximo passo seja mais fácil de encontrar e a tela continue tranquila.
 

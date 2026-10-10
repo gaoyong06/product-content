@@ -1,10 +1,4 @@
-HomepageTab
-
-Visão geral
-
-Sites, tarefas, calendário e widgets: agora está tudo em ordem. A sua página inicial, em cada novo separador
-
-Descrição
+Sites, marcadores e tarefas sempre à mão. Personalize a página inicial do navegador com widgets.
 
 Quando abre um novo separador, normalmente quer fazer uma coisa: abrir um site, encontrar uma resposta ou registar uma ideia. O HomepageTab reúne estes pontos de entrada numa só página, para encontrar mais depressa o passo seguinte e manter o ecrã tranquilo.
 

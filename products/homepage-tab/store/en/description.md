@@ -1,10 +1,4 @@
-HomepageTab
-
-Overview
-
-Frequently used sites, tasks, calendar, and widgets—now perfectly organized. Your homepage, in every new tab
-
-Description
+Favorite sites, bookmarks and to-dos at a glance. Customize widgets to make your browser homepage your own.
 
 When you open a new tab, you usually want to do one thing: open a website, look something up, or write something down. HomepageTab keeps these entry points on one page, so the next step is easier to find while the page stays calm.
 

@@ -1,10 +1,4 @@
-HomepageTab
-
-Pārskats
-
-Bieži lietotās vietnes, uzdevumi, kalendārs un logrīki — tagad viss ir sakārtots. Jūsu sākumlapu katrā jaunā cilnē
-
-Apraksts
+Iecienītās vietnes, grāmatzīmes un uzdevumi vienuviet. Pielāgojiet pārlūkprogrammas sākumlapu ar logrīkiem.
 
 Atverot jaunu cilni, parasti vēlaties izdarīt vienu lietu: atvērt vietni, atrast atbildi vai pierakstīt ideju. HomepageTab apvieno šos sākumpunktus vienā pazīstamā lapā, lai nākamo soli varētu atrast ātrāk un ar mazāk traucēkļiem.
 

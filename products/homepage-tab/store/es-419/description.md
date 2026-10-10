@@ -1,10 +1,4 @@
-HomepageTab
-
-Descripción general
-
-Sitios, tareas, calendario y widgets: ahora todo está en orden. Tu página de inicio, en cada pestaña nueva
-
-Descripción
+Tus sitios favoritos, marcadores y tareas a mano. Personaliza la página de inicio de tu navegador con widgets.
 
 Al abrir una pestaña nueva, normalmente quieres hacer una sola cosa: abrir un sitio, encontrar una respuesta o anotar una idea. HomepageTab reúne esas entradas en una sola página para que encuentres más rápido el siguiente paso y haya menos distracciones.
 

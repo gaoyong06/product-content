@@ -1,10 +1,4 @@
-HomepageTab
-
-Overzicht
-
-Veelgebruikte sites, taken, agenda en widgets — nu is alles op orde. Jouw startpagina in elk nieuw tabblad
-
-Beschrijving
+Favoriete sites, bladwijzers en taken in één oogopslag. Maak de startpagina van je browser persoonlijk met widgets.
 
 Wanneer je een nieuw tabblad opent, wil je meestal één ding doen: een website openen, een antwoord zoeken of een idee noteren. HomepageTab zet deze ingangen op één vertrouwde pagina, zodat je sneller de volgende stap vindt en minder wordt afgeleid.
 

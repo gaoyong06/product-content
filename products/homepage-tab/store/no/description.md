@@ -1,10 +1,4 @@
-HomepageTab
-
-Oversikt
-
-Ofte brukte nettsteder, oppgaver, kalender og widgeter — nå er alt i orden. Startsiden din i hver nye fane
-
-Beskrivelse
+Favorittnettsteder, bokmerker og oppgaver samlet. Tilpass nettleserens startside med widgeter.
 
 Når du åpner en ny fane, vil du som regel gjøre én ting: åpne et nettsted, finne et svar eller skrive ned en idé. HomepageTab samler disse inngangene på én kjent side, slik at du finner neste steg raskere og blir mindre forstyrret.
 

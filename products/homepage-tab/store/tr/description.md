@@ -1,10 +1,4 @@
-HomepageTab
-
-Genel bakış
-
-Sık kullanılan siteler, görevler, takvim ve araçlar — artık her şey düzenli. Her yeni sekmede ana sayfanız
-
-Açıklama
+Favori siteler, yer imleri ve görevler bir arada. Tarayıcınızın başlangıç sayfasını widget'larla kişiselleştirin.
 
 Yeni bir sekme açtığınızda genellikle tek bir şey yapmak istersiniz: bir siteyi açmak, bir yanıt bulmak veya bir fikri not etmek. HomepageTab bu başlangıç noktalarını tek sayfada bir araya getirir; böylece sıradaki adımı daha kolay bulur ve daha az dikkatiniz dağılır.
 

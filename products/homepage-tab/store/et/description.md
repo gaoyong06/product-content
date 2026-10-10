@@ -1,10 +1,4 @@
-HomepageTab
-
-Ülevaade
-
-Sageli kasutatavad saidid, ülesanded, kalender ja vidinad — nüüd on kõik korras. Sinu avaleht igal uuel vahekaardil
-
-Kirjeldus
+Lemmiksaidid, järjehoidjad ja ülesanded kohe nähtaval. Kohanda brauseri avaleht vidinatega endale sobivaks.
 
 Uue vahelehe avamisel tahad tavaliselt teha üht asja: avada veebisaidi, leida vastuse või panna idee kirja. HomepageTab koondab need sissepääsud ühele tuttavale lehele, et leiaksid järgmise sammu kiiremini ja väiksema segadusega.
 

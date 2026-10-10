@@ -1,10 +1,4 @@
-HomepageTab
-
-Pangkalahatang-ideya
-
-Mga madalas na site, gawain, kalendaryo, at widget—organisado na ngayon. Ang iyong homepage, sa bawat bagong tab
-
-Paglalarawan
+Mga paboritong site, bookmark at gawain sa isang tingin. Ayusin ang mga widget para sa sarili mong homepage.
 
 Kapag nagbukas ka ng bagong tab, karaniwan ay isang bagay lang ang kailangan mo: magbukas ng website, maghanap ng sagot, o magsulat ng ideya. Pinagsasama ng HomepageTab ang mga entry point na ito sa isang pamilyar na page para mas madaling makita ang susunod na hakbang at mabawasan ang abala.
 

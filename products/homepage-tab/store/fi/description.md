@@ -1,10 +1,4 @@
-HomepageTab
-
-Yleiskatsaus
-
-Sivustot, tehtävät, kalenteri ja widgetit — nyt kaikki on järjestyksessä. Kotisivusi jokaisessa uudessa välilehdessä
-
-Kuvaus
+Suosikkisivut, kirjanmerkit ja tehtävät yhdellä silmäyksellä. Muokkaa selaimesi aloitussivua widgeteillä.
 
 Kun avaat uuden välilehden, haluat yleensä tehdä yhden asian: avata sivuston, etsiä vastauksen tai kirjoittaa idean muistiin. HomepageTab kokoaa nämä aloitukset yhdelle tutulle sivulle, joten löydät seuraavan vaiheen nopeammin ja häiriöitä on vähemmän.
 

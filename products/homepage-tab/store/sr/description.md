@@ -1,10 +1,4 @@
-HomepageTab
-
-Pregled
-
-Сајтови, задаци, календар и виџети — сада је све уредно. Ваша почетна у свакој новој картици
-
-Opis
+Омиљени сајтови, обележивачи и задаци на једном месту. Прилагодите почетну страницу прегледача виџетима.
 
 Kada otvorite novu karticu, obično želite da uradite jednu stvar: otvorite sajt, pronađete odgovor ili zapišete ideju. HomepageTab okuplja ove početne tačke na jednoj stranici, pa je sledeći korak lakše pronaći, bez nepotrebnih ometanja.
 

@@ -1,10 +1,4 @@
-HomepageTab
-
-Overblik
-
-Ofte brugte websteder, opgaver, kalender og widgets — nu er det hele i orden. Din startside i hver ny fane
-
-Beskrivelse
+Dine yndlingssider, bogmærker og opgaver samlet ét sted. Tilpas din browsers startside med widgets.
 
 Når du åbner en ny fane, vil du som regel gøre én ting: åbne et websted, finde et svar eller skrive en idé ned. HomepageTab samler disse indgange på én velkendt side, så du hurtigere finder det næste trin og bliver mindre distraheret.
 

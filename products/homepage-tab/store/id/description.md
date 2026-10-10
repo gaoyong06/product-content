@@ -1,10 +1,4 @@
-HomepageTab
-
-Ringkasan
-
-Situs yang sering dipakai, tugas, kalender, dan widget—kini semuanya rapi. Beranda Anda di setiap tab baru
-
-Deskripsi
+Situs favorit, bookmark dan tugas dalam satu tampilan. Atur widget untuk membuat beranda browser sesuai keinginan Anda.
 
 Saat membuka tab baru, biasanya Anda hanya ingin melakukan satu hal: membuka situs, mencari jawaban, atau mencatat ide. HomepageTab menempatkan semua pintu masuk itu di satu halaman yang familiar, sehingga langkah berikutnya lebih mudah ditemukan dan gangguan berkurang.
 

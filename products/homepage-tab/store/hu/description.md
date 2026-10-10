@@ -1,10 +1,4 @@
-HomepageTab
-
-Áttekintés
-
-Gyakran használt oldalak, feladatok, naptár és widgetek — most minden rendben. A kezdőlapod minden új lapon
-
-Leírás
+Kedvenc oldalak, könyvjelzők és teendők egy helyen. Szabd személyre a böngésződ kezdőlapját widgetekkel.
 
 Amikor új lapot nyitsz, általában egy dolgot szeretnél tenni: megnyitni egy webhelyet, megtalálni egy választ vagy feljegyezni egy ötletet. A HomepageTab ezeket a belépési pontokat egy ismerős oldalon egyesíti, így gyorsabban megtalálod a következő lépést, kevesebb zavaró tényezővel.
 

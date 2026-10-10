@@ -1,10 +1,4 @@
-HomepageTab
-
-Ringkasan
-
-Laman kerap digunakan, tugasan, kalendar dan widget—kini semuanya tersusun. Laman utama anda dalam setiap tab baharu
-
-Penerangan
+Laman kegemaran, penanda buku dan tugasan sepintas lalu. Sesuaikan halaman utama pelayar anda dengan widget.
 
 Apabila anda membuka tab baharu, biasanya anda mahu melakukan satu perkara: membuka laman web, mencari jawapan atau mencatat idea. HomepageTab mengumpulkan pintu masuk ini pada satu halaman yang biasa, supaya langkah seterusnya lebih mudah ditemui dan gangguan berkurang.
 

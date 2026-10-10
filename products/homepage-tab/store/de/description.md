@@ -1,10 +1,4 @@
-HomepageTab
-
-Überblick
-
-Websites, Aufgaben, Kalender und Widgets – jetzt ist alles aufgeräumt. Deine Homepage in jedem neuen Tab
-
-Beschreibung
+Lieblingsseiten, Lesezeichen und Aufgaben im Blick. Gestalte deine Browser-Startseite mit Widgets.
 
 Wenn du einen neuen Tab öffnest, möchtest du meistens eine Sache erledigen: eine Website öffnen, eine Antwort finden oder eine Idee notieren. HomepageTab bündelt diese Einstiege auf einer vertrauten Seite, damit du den nächsten Schritt schneller findest und weniger abgelenkt wirst.
 

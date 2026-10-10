@@ -1,10 +1,4 @@
-HomepageTab
-
-Översikt
-
-Ofta använda webbplatser, uppgifter, kalender och widgetar — nu är allt i ordning. Din startsida i varje ny flik
-
-Beskrivning
+Favoritsidor, bokmärken och uppgifter i ett ögonkast. Anpassa webbläsarens startsida med widgetar.
 
 När du öppnar en ny flik vill du oftast göra en sak: öppna en webbplats, hitta ett svar eller skriva ned en idé. HomepageTab samlar dessa startpunkter på en sida, så att nästa steg blir enklare att hitta och skärmen förblir lugn.
 

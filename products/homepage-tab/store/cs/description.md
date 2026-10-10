@@ -1,10 +1,4 @@
-HomepageTab
-
-Přehled
-
-Často používané weby, úkoly, kalendář a widgety — teď je vše v pořádku. Vaše domovská stránka na každé nové kartě
-
-Popis
+Oblíbené weby, záložky a úkoly na jednom místě. Přizpůsobte si domovskou stránku prohlížeče pomocí widgetů.
 
 Když otevřete novou kartu, většinou chcete udělat jednu věc: otevřít web, najít odpověď nebo si zapsat nápad. HomepageTab soustředí tyto vstupy na jednu známou stránku, takže další krok najdete rychleji a s menším rozptylováním.
 

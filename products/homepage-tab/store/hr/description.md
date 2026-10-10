@@ -1,10 +1,4 @@
-HomepageTab
-
-Pregled
-
-Stranice, zadaci, kalendar i widgeti — sada je sve uredno. Vaša početna u svakoj novoj kartici
-
-Opis
+Omiljene stranice, oznake i zadaci na jednom mjestu. Prilagodite početnu stranicu preglednika widgetima.
 
 Kada otvorite novu karticu, obično želite učiniti jednu stvar: otvoriti web-lokaciju, potražiti odgovor ili zapisati ideju. HomepageTab okuplja te ulaze na jednoj poznatoj stranici kako biste brže pronašli sljedeći korak i imali manje ometanja.
 

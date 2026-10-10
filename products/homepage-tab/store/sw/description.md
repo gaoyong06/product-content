@@ -1,10 +1,4 @@
-HomepageTab
-
-Muhtasari
-
-Tovuti unazotumia, kazi, kalenda na wijeti—sasa kila kitu kimepangwa. Ukurasa wako wa nyumbani katika kila kichupo kipya
-
-Maelezo
+Tovuti pendwa, alamisho na kazi kwa mtazamo mmoja. Panga wijeti upendavyo kwenye ukurasa wa mwanzo wa kivinjari.
 
 Unapofungua kichupo kipya, kwa kawaida unataka kufanya jambo moja: kufungua tovuti, kutafuta jibu au kuandika wazo. HomepageTab huweka njia hizi kwenye ukurasa mmoja unaouzoea, ili upate hatua inayofuata kwa haraka na usumbufu mdogo.
 

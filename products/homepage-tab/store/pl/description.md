@@ -1,10 +1,4 @@
-HomepageTab
-
-Przegląd
-
-Strony, zadania, kalendarz i widżety — teraz wszystko jest uporządkowane. Twoja strona główna w każdej nowej karcie
-
-Opis
+Ulubione strony, zakładki i zadania w jednym miejscu. Dostosuj stronę startową przeglądarki za pomocą widżetów.
 
 Po otwarciu nowej karty zwykle chcesz zrobić jedną rzecz: otworzyć stronę, znaleźć odpowiedź albo zapisać pomysł. HomepageTab zbiera te wejścia na jednej znajomej stronie, dzięki czemu szybciej znajdziesz kolejny krok i łatwiej zachowasz koncentrację.
 

@@ -1,10 +1,4 @@
-HomepageTab
-
-Pregled
-
-Pogosto uporabljena mesta, opravila, koledar in gradniki — zdaj je vse urejeno. Vaša domača stran v vsakem novem zavihku
-
-Opis
+Priljubljena spletna mesta, zaznamki in opravila na enem mestu. Prilagodite začetno stran brskalnika z gradniki.
 
 Ko odprete nov zavihek, običajno želite narediti eno stvar: odpreti spletno mesto, poiskati odgovor ali zapisati idejo. HomepageTab te začetne točke združi na eni strani, zato lažje najdete naslednji korak in vas manj moti.
 

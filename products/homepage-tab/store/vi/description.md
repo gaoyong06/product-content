@@ -1,10 +1,4 @@
-HomepageTab
-
-Tổng quan
-
-Trang thường dùng, việc cần làm, lịch và tiện ích — giờ đã gọn gàng. Trang chủ của bạn trong mọi thẻ mới
-
-Mô tả
+Trang yêu thích, dấu trang và việc cần làm trong tầm mắt. Tùy chỉnh tiện ích để tạo trang chủ trình duyệt của riêng bạn.
 
 Khi mở một tab mới, bạn thường chỉ muốn làm một việc: mở một trang web, tìm câu trả lời hoặc ghi lại một ý tưởng. HomepageTab tập hợp các điểm bắt đầu này trên một trang, để bạn dễ tìm bước tiếp theo và ít bị phân tâm hơn.
 
